@@ -4,4 +4,4 @@
 Разработчики
 ------------
 * Степулёнок Денис Олегович - super.denis@gmail.com
-* Громов Илья Анварович - igromovbox@gmail.com
+* Зац Кирилл Валерьевич zats.kirill@gmail.com
